@@ -1,0 +1,3 @@
+[submodule "lab-back"]
+	path = lab-back
+	url = https://github.com/fwgood/lab-back.git
