@@ -1,3 +1,6 @@
 [submodule "lab-back"]
 	path = lab-back
 	url = https://github.com/fwgood/lab-back.git
+[submodule "lab-front"]
+	path = lab-front
+	url = https://github.com/fwgood/lab-front.git
